@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "Mămmy Việt Nam",
+    "headerColor": "",
+    "textColor": "black",
+    "statusBarColor": "#9BD929",
+    "leftButton": "none",
+    "statusBar": "normal",
+    "selfControlLoading": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "actionBarHidden": true
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [
+    "/user",
+    "/form",
+    "/dynamic-route",
+    "/about",
+    "/404",
+    "/home"
+  ],
+  "template": {
+    "primaryColor": "#9BD929",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": ""
+  }
+}
